@@ -24,7 +24,6 @@
 
    7. check the output 
    hadoop fs -cat /user/cloudera/maxTemperature/Output_Dir1/part-00000
-           
+          
 
-
-
+8. check the jobstatus & logs of mapper & reducer(using loggerFactory ) using link http://quickstart.cloudera:19888/jobhistory/ .
